@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  QuizViewController.h
 //  Quiz
 //
 //  Created by Fredrick Ohen on 1/31/17.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface QuizViewController : UIViewController
 
 @end
-
